@@ -1,15 +1,40 @@
-2020/1/16 22:41:27
-# 报告由黑鸟播放器制作
-
-
-
-2序号[1920*1080],http://223.110.251.151:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-1序号[1920*1080],http://223.110.251.150:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-4序号[1920*1080],http://223.110.251.153:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-5序号[1920*1080],http://223.110.251.154:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-6序号[1920*1080],http://223.110.251.155:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-7序号[1920*1080],http://223.110.251.156:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-8序号[1920*1080],http://223.110.251.157:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-9序号[1920*1080],http://223.110.251.158:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-10序号[1920*1080],http://223.110.251.159:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-185序号[1920*1080],http://223.110.253.152:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+DAUMPLAYLIST
+playname=http://223.110.251.153:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+topindex=0
+saveplaypos=0
+1*file*http://223.110.251.153:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+1*title*4序号[1920*1080]
+1*played*0
+2*file*http://
+2*title*======== 2020/1/16 22:41:27 ========
+2*played*0
+3*file*http://
+3*title*======== 报告由黑鸟播放器制作 ========
+3*played*0
+4*file*http://223.110.251.151:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+4*title*2序号[1920*1080]
+4*played*0
+5*file*http://223.110.251.150:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+5*title*1序号[1920*1080]
+5*played*0
+6*file*http://223.110.251.154:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+6*title*5序号[1920*1080]
+6*played*0
+7*file*http://223.110.251.155:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+7*title*6序号[1920*1080]
+7*played*0
+8*file*http://223.110.251.156:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+8*title*7序号[1920*1080]
+8*played*0
+9*file*http://223.110.251.157:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+9*title*8序号[1920*1080]
+9*played*0
+10*file*http://223.110.251.158:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+10*title*9序号[1920*1080]
+10*played*0
+11*file*http://223.110.251.159:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+11*title*10序号[1920*1080]
+11*played*0
+12*file*http://223.110.253.152:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+12*title*185序号[1920*1080]
+12*played*0
